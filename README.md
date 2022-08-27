@@ -8,6 +8,7 @@
 - Listening to kpop
 - Watching Netflix && Kdramas 
 - I love watching cat videos
+- I like hiking
  
 ### Contact Info
 * Check out my [Github](https://github.com/ZBHlily?tab=repositories) or [Linkedin](https://www.linkedin.com/in/liang-lily/)
