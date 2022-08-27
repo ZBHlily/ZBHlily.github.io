@@ -4,13 +4,13 @@
 - Third year student majoring in computer science at CUNY City College of New York
 - I started coding in high school and I created mini games which got me interested in what coding is and how I can make impactful innovations!
  
-* Check out my Github: [Github Link](https://github.com/ZBHlily?tab=repositories)
+* Check out my Github: [https://github.com/ZBHlily?tab=repositories]
 
 * Stay in touch with me:
 
   * Gmail: LilyLiang1220@gmail.com
  
-  * Linkedin: [Linkedin Link](https://www.linkedin.com/in/liang-lily/)
+  * Linkedin: [https://www.linkedin.com/in/liang-lily/]
 
 
 
