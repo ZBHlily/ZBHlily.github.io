@@ -13,7 +13,6 @@
 ### Contact Info
 * Check out my [Github](https://github.com/ZBHlily?tab=repositories) or [Linkedin](https://www.linkedin.com/in/liang-lily/)
 * Stay in touch with me:
-
   * Gmail: LilyLiang1220@gmail.com
 
 
