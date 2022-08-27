@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages hello
+## Welcome to Lily's Website 
+
+### Introduction
+- Third year student majoring in computer science at CUNY City College of New York
+- I started coding in high school and I created mini games which got me interested in what coding is and how I can make impactful innovations!
+ 
+* Check out my Github: [Github Link](https://github.com/ZBHlily?tab=repositories)
+
+* Stay in touch with me:
+
+  * Gmail: LilyLiang1220@gmail.com
+ 
+  * Linkedin: [Linkedin Link](https://www.linkedin.com/in/liang-lily/)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ZBHlily/ZBHlily.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
